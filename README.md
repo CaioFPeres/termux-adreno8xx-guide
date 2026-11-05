@@ -3,6 +3,7 @@
 ## 1. Objetivo
 
 Configurar o driver gráfico **Mesa Turnip** dentro de uma distribuição Linux com glibc executada pelo Termux através do Proot, utilizando a GPU Adreno do dispositivo Android.
+Testado no S25 Ultra com Adreno 830
 
 Neste procedimento, utilizamos:
 
